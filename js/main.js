@@ -23,3 +23,4 @@ dashed.classList.remove("dashed");
 // dashed.remove();
 
 footerEl.classList.add("goldenrod");
+
